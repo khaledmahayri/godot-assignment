@@ -1,10 +1,5 @@
 ﻿# godot-assignment
 
-i tried really hard to upload it in git hub but couldn't so here are the codes.
-they are 5 files I've written the name of the file then the code.
-it worked with me in vs code.
-hope that's enough :)
-
 index.html
 {
 	<!DOCTYPE html>
@@ -214,3 +209,4 @@ services:
       - SE_SCREEN_WIDTH=1360
       - SE_SCREEN_HEIGHT=1020
 }
+
